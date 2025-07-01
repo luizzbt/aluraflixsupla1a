@@ -12,3 +12,10 @@ p{
     color: black;
     font-size: 20px;
 }
+
+header{
+    border-bottom: solid 2px blue;
+    font-size: 40px;
+    color: rgb(2, 2, 137);
+    padding: 15px;
+}
