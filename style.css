@@ -20,6 +20,14 @@ header{
     padding: 15px;
 }
 
+section {
+    background: rgba(97, 97, 167, 0.437);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
 .chama-texto {
     
 }
